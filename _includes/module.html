@@ -1,0 +1,11 @@
+<div style="clear: both;">
+    <div style="float: left; margin-right: 0.5em; width:200px; padding-bottom: 15px; padding-left:20px">
+      <img src="{{ include.image_path }}" alt="">
+    </div>
+    <div>
+      <h2><a href="{{include.link}}">{{ include.title }}</a> {{include.director}}</h2>
+      <h3>{{include.score}}</h3>
+      {{ include.description | markdownify}}
+    </div>
+</div>
+  
