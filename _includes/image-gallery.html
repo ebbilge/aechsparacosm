@@ -1,6 +1,5 @@
 <div class="image-gallery" style="overflow: auto; margin-left: -1%!important;">
   {% for file in site.static_files %}
-    {% if file.path contains include.folder %}
       {% if file.extname == '.jpg' or 
         file.extname == '.jpeg' or 
         file.extname == '.JPG' or 
@@ -10,7 +9,6 @@
         file.extname == '.gif' %}
         <img src="{{ file.path }}" style="float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;" />
       {% endif %}
-    {% endif %}
   {% endfor %}
  </div>
 
