@@ -1,9 +1,5 @@
-<style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery img {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-  </style>
-  
-  <div class="image-gallery">
+
+<div class="image-gallery" style="overflow: auto; margin-left: -1%!important;">
   {% for file in site.static_files %}
     {% if file.path contains include.folder %}
       {% if file.extname == '.jpg' or 
@@ -18,9 +14,9 @@
         {% assign filename = filenameparts | last | replace: file.extname,"" %}
   
         
-        <img src="{{ file.path }}" alt="{{ filename }}" />
+        <img src="{{ file.path }}" alt="{{ filename }}" style="float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;" />
       {% endif %}
     {% endif %}
   {% endfor %}
-  </div>
+ </div>
 
