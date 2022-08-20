@@ -23,8 +23,8 @@ After, when I took my final exam, we came to our hometown. I’m surrounded by l
 
 Above all this, I’m experiencing my holiday in the best way. I’m reading wonderful books. Amazing news – I found Gutenberg Galaxy by Marshall McLuhan in a bookshop here. I was trying to find this book for months. It’s a book that create brainstorms. I’m listening wonderful songs and try to play them with my ukulele. Thanks to my sister and my cousin to this awesome birthday gift. I examine insects, taking photos of them and learning about them more, they are wonderful! Here are some of the insects that I met.
 
+{% include image-gallery.html folder="/assets/bug" %}
 
-![Bug](/aechsparacosm/assets/bug1.jpg) | ![Bug](/aechsparacosm/assets/bug2.jpg) | ![Bug](/aechsparacosm/assets/bug3.jpg)
 
 -----
 
