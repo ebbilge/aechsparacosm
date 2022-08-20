@@ -22,7 +22,7 @@ Derin öğrenme demişken aylardır beklediğim DALL-E davet maili geldi. 50 kre
 
 "*hayao miyazaki and van gogh drinking tea while watching starry night*"
 
-![Miyazaki](/assets/miyazaki1.PNG) | ![Miyazaki](/assets/miyazaki2.PNG) 
+![Miyazaki](/aechsparacosm/assets/miyazaki1.png ) | ![Miyazaki](/assets/miyazaki2.PNG) 
 
 "*hayao miyazaki drinking tea at howl's moving castle when they are watching the night sky*"
 
