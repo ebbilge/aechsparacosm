@@ -12,7 +12,7 @@ I admit that I forgot this blog and not stick with my goals -as always- Few days
 
 Firstly, of course we start listing failures of 8 months. If you want you can skip this part because apparently this list will be very long.
 
-![Shame Corner](/assets/shame.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Shame Corner](/aechsparacosm/assets/shame.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 * I lost my 160-day learning Japanese streak in Duolingo.
 * I couldn’t be a YGA volunteer.I couldn’t pass to third stage.
@@ -26,7 +26,7 @@ Firstly, of course we start listing failures of 8 months. If you want you can sk
 
 Situation really worse than I expect it. Let’s start listing success and earnings to feel better:
 
-![Stop crying](/assets/crying.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Stop crying](/aechsparacosm/assets/crying.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 * Finally I’m proud to say that I reached my reading goal. My goal was 24 books for all year and I read 32 books until now.
 * I finished my first year in medicine school.
@@ -80,7 +80,7 @@ In 8 Months
 
 It help me to see my failures and successes clearly. Writing all this especially “interesting things that I learned” part turn on new lights and ideas in my brain. As a result of this I made a little goals list for the rest of the year -again-
 
-![Steve Again](/assets/again.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Steve Again](/aechsparacosm/assets/again.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 * I will write every day but probably I will be not publish in the blog.
 * Continue to machine learning course prepared by Andrew Ng.
@@ -96,4 +96,4 @@ This list is incomplete and unclear right now. Aech, you will update this list i
 
 If any organic or artificial life form read this, sorry for this boring and personal blog post. Live long and prosper!
 
-![Vulcan Salute](/assets/vulcan1.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Vulcan Salute](/aechsparacosm/assets/vulcan1.jpg){:style="display:block; margin-left:auto; margin-right:auto"}

@@ -22,12 +22,12 @@ Derin öğrenme demişken aylardır beklediğim DALL-E davet maili geldi. 50 kre
 
 "*hayao miyazaki and van gogh drinking tea while watching starry night*"
 
-![Miyazaki](/assets/miyazaki1.png) | ![Miyazaki](/assets/miyazaki2.png) 
+![Miyazaki](/aechsparacosm/assets/miyazaki1.png) | ![Miyazaki](/aechsparacosm/assets/miyazaki2.png) 
 
 "*hayao miyazaki drinking tea at howl's moving castle when they are watching the night sky*"
 
-![Miyazaki](/assets/miyazaki3.png) | ![Miyazaki](/assets/miyazaki4.png) 
-![Miyazaki](/assets/miyazaki5.png) | ![Miyazaki](/assets/miyazaki6.png) 
+![Miyazaki](/aechsparacosm/assets/miyazaki3.png) | ![Miyazaki](/aechsparacosm/assets/miyazaki4.png) 
+![Miyazaki](/aechsparacosm/assets/miyazaki5.png) | ![Miyazaki](/aechsparacosm/assets/miyazaki6.png) 
 
 Bu resimlerden Miyazaki ve Studio Ghibli hayranlığımı fark etmişsinizdir. Bana ilham veren her sanatçı ruhumda bir yer kaplamaya ve orayı çiçeklendirmeye başlıyor. Miyazaki de bunlardan birisi. Ruhumun daha da çiçeklenmesi için böyle sanatçıları keşfetme arayışına giriyorum. Keşiflerim için ana kaynağım sanata dair programlar izlemek. Şu sıralar, TRT2’nin yaptığı çoğu iş gibi enfes olan “[Bir Resim Bir Hikaye](https://www.trtizle.com/programlar/bir-resim-bir-hikaye)” ve “[Bir Kare Bir Anlam](https://www.trtizle.com/programlar/bir-kare-bir-anlam)” programlarını takip ediyorum. Bunun dışında yıllardır favorim olan Sky Arts’ın harika programı “Portrait Artist of the Year” ile yeni sanatçıların keşfine çıkıyorum.
 
@@ -37,7 +37,7 @@ Doğayla iç içe olduğum bu tatilde kuşlar tarafından çevrilmiş bir haldey
 
 Çok sevdiğim bir arkadaşım kısa süreliğine burayı ziyaret etmeye geldi. Sürekli gördüğün yerleri sevdiğin bir insanla beraber görmek sana yeni bir bakış açısı kazandırıyor ve deneyimine bir derinlik daha katıyor. Bu zamana kadar - hazırlıklı olun Into the Wild filmine dair spoiler geliyor- Into the Wild’ın son sahnesini, bir introvert olarak anlamlandıramamış, tam olarak kabullenememiştim. Ancak sevdiğim insanlarla yaşadığım deneyimlerle anlıyorum ki "Happiness only real when shared.”
 
-![Into the wild](/assets/into_the_wild.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Into the wild](/aechsparacosm/assets/into_the_wild.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Yakın zamanda dinlemek üzerine '[You’re Not Listening](https://www.goodreads.com/book/show/45892276-you-re-not-listening?from_search=true&from_srp=true&qid=so5BTcXCpC&rank=1)' isminde bir kitap okudum. Kitapta dinleyerek aslında “Başka birinin sözlerini ve duygularını bilincinize kabul ediyorsunuz ve o kişinin eşiği geçmesine ve dünyanızda ikamet etmesine izin veriyorsunuz.” alıntısını okudum. Beni derinden sarstı ve üstünde uzunca düşünmeme neden oldu. 
 

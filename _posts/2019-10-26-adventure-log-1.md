@@ -13,7 +13,7 @@ This blog’s purpose was keep the track of my learning adventure. In this proce
 
 My first brilliant(!) idea is to share interesting things I read or watched or thought about that week, like a weekly newsletter. So the adventure begins!
 
-![Geronimo](/assets/geronimo.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Geronimo](/aechsparacosm/assets/geronimo.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 # Article & Blog posts
 
@@ -40,4 +40,4 @@ My first brilliant(!) idea is to share interesting things I read or watched or t
 
 Thanks for reading! Live long and prosper 🖖
 
-![Doctor Salute](/assets/doctor_salute.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Doctor Salute](/aechsparacosm/assets/doctor_salute.gif){:style="display:block; margin-left:auto; margin-right:auto"}

@@ -15,7 +15,7 @@ I’m taking [Deep Learning Specialization](https://www.coursera.org/specializat
 
 I’m in love with the things that I’m learning right now, all of them are amazing. Maybe, I might have problems with calculus and linear algebra because I have forgotten them a bit. But if we look with an optimistic perspective, I’m relearning linear algebra again. Another earning; when you think about it, studying math is one of the best activities in quarantine. As you can see I spent all my time to this course, instead of study medicine. Shhh, don’t tell my dad!
 
-![Simpson](/assets/math_simpson.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Simpson](/aechsparacosm/assets/math_simpson.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 I don’t pay the course to get the certificate by the way. I applied for financial aid. Probably, you will know about this already but I will tell a bit about this opportunity for people who don’t know. In Coursera, most of the courses have an option for financial aid. When you get financial aid, you can enroll in the course for free and get access to all course materials.
 
@@ -29,13 +29,13 @@ Of course I’m taking another course because my brain thinks that I don’t nee
 
 I’m fascinated by insects and love to learn more about entomology. If you are entomology enthusiast like me, I strongly suggest [Bugs 101](https://www.coursera.org/learn/bugs-101) course. I’m learning comprehensive knowledge about insects step by step. It’s so educational and fun! I’m planning to write blog posts about what I learned. I hope I can make it.
 
-![Bugs](/assets/bugs.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Bugs](/aechsparacosm/assets/bugs.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 -----
 
 The good side of all this quarantine thing is people organize wonderful online seminars and I can attend them from my home. [World Wide Neuro](https://www.worldwideneuro.com/) is one of them. They are organizing online neuroscience seminars and almost everyday wonderful scientist talk about their studies. I attended a couple of them. I don’t understand all the things they talk about because I don’t have enough knowledge to understand it. But I find new knowledge crumbs for further research. These crumbs are good nutrients to my mind that hungry for knowledge.
 
-![Information](/assets/information.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Information](/aechsparacosm/assets/information.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 -----
 

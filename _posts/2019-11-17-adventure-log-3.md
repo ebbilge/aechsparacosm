@@ -26,4 +26,4 @@ This week I don’t have many suggestions. Because I spent all week learning and
 
 That’s all for this week. Thanks for reading and as always live long and prosper 🖖
 
-![Vulcan Salute](/assets/vulcan1.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
+![Vulcan Salute](/aechsparacosm/assets/vulcan1.jpg){:style="display:block; margin-right:auto; margin-left:auto"}

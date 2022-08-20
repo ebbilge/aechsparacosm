@@ -16,7 +16,7 @@ So let’s first start describe what PKM is according to Wikipedia:
 
 I see myself as a knowledge worker because all of us – conscious creatures – working on knowledge to create ideas. And above all that learning new things are very exciting for me. Also when I think about how my brain and my neurons changes amazingly in this learning process, my excitement doubles. What a wonderful experience! But I realized I start to forget all of those things because in this new internet age we are facing lots of information and my brain couldn’t keep up with this much info. So my need of store and classify knowledge arises and PKM enters the stage. Firstly I want to write about how I managed my personal knowledge and then write benefits of it.
 
-![Press ](/assets/press.gif){:style="display:block; margin-right:auto; margin-left:auto"}
+![Press ](/aechsparacosm/assets/press.gif){:style="display:block; margin-right:auto; margin-left:auto"}
 
 I am using a note-taking app called [Notion](https://www.notion.so/) to store and classify my personal knowledge. By the way when I use the term personal knowledge what I mean is all information about myself and my thoughts. In example:
 
@@ -31,7 +31,7 @@ I am using a note-taking app called [Notion](https://www.notion.so/) to store an
 Mainly I use Notion for exciting thoughts about new information that I learned. I store them with the dates and tags so I could find what I searched easily and see my learning adventure clearly.
 
 This is how my September learning adventure looks like.
-![Notion](/assets/notion_september.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
+![Notion](/aechsparacosm/assets/notion_september.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
 
 I find Notion from a youtube video. In video Ali Abdaal talks about how he using the app for personal knowledge management. You can check out [the video](https://www.youtube.com/watch?v=VOJPtvCfvxk&feature=youtu.be) for detailed info.
 
@@ -53,4 +53,4 @@ Ali Fuad Başgil de Gençlerle Baş Başa kitabında Çalışma Hayatının Umum
 
 Thanks for reading! As always live long and prosper!
 
-![Vulcan](/assets/vulcan1.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
+![Vulcan](/aechsparacosm/assets/vulcan1.jpg){:style="display:block; margin-right:auto; margin-left:auto"}

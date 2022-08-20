@@ -11,7 +11,7 @@ Merhaba tüm organik ve yapay yaşam formları,
 
 İlgilendiğimiz şeyler zevklerimiz ve isteklerimizi şekillendiriyor, onların etkisinde şekillenen isteklerimiz ise en başta ilgilendiğimiz alanı besliyor. Benzer ilgi alanları etkisinde bir dairede yaşamaya başlıyor ve bu dairenin dışındakileri deneyimleyemiyoruz çünkü onları istemiyoruz. Onları istemememizin ardındaki sebep ise aynı dairede dönüp durduğumuzdan onlar hakkında pek de bir fikrimizin olmaması. Eğer bu ilgi daireleri arasında sıçramalar yapmazsak da birçok şeyi kaçırıyoruz. Zihnimde dolaşan bu düşünceler ile yarıyıl tatilimde daha önce deneyimlemediğim çeşitli aktiviteleri denemeye karar verdim. İlerleyen süreçte okuyacağınız üzere seçtiğim etkinlikler bulunduğum dairenin çok uzak noktalarında bulunmuyorlar, parmak uçlarında atılmış adımları içeriyorlar. Lütfen yargılamayalım -_-
 
-![İlgi dairesi](/assets/ilgi_daire.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![İlgi dairesi](/aechsparacosm/assets/ilgi_daire.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 İlk aktivitemiz koronada herkesin boş vaktini doldurmak amacıyla yaptığı bir aktivite olan puzzle. Daha önce 25 parça üzeri puzzle yapmamış biri olarak 3000 parçalık bir puzzle almaya karar verdim. Bu seçimimin ardındaki düşünce dinamiğini tam olarak bilmiyorum. Zorlayıcı, keyif dolu ve saatlerin nasıl geçtiğini anlamadığım bir süreç oldu. Aynı zamanda parçaların yerini bulmaya çalışırken eğer size bir podcast veya şarkı eşlik etmiyorsa düşünmek için çok vaktiniz oluyor. Bu uzun düşünme serüvenlerinde istek ve ilgi dairelerinin etkilerini daha ayrıntılı keşfetmiş oldum. Keşfettiğim şeyleri ayrıntılandırmak amacıyla bu serüvenden bir kesit paylaşacak olursam:
 

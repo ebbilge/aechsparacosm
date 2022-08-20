@@ -30,11 +30,11 @@ Bu senenin filmi ise zor zamanlarımda bana yoldaşlık eden sayısını bilmedi
 
 Bu sene kil yapmayı öğrendim ve Yürüyen Şato’dan Calcifer’ın broşunu yaptım. Biraz da örgü işleri ile uğraştım. Yoğun ders dönemlerinin arasında nefes almak için enfes aktiviteler.
 
-![Calcifer](/assets/calcifer.jpg){:style="display:block; margin-right:auto; margin-left:auto; height:300px"}
+![Calcifer](/aechsparacosm/assets/calcifer.jpg){:style="display:block; margin-right:auto; margin-left:auto; height:300px"}
 
 Destek aldığımız derin öğrenme projemizi tamamladık. Dönem dönem Imposter sendromuna girmeme neden olsa da hedeflediğimiz doğrulukta kanser tanısı yapan bir model elde ettik ancak hala büyük oranda geliştirilmeye ihtiyacı var. Benim için sınırlarımın zorlandığı, saatlerce modelin eğitilmesini beklediğim, derin öğrenmenin büyüleyici dünyasına bir kez daha aşık olduğum güzel ve anksiyete dolu bir serüven oldu.
 
-![Model Train](/assets/model_train.jpg){:style="display:block; margin-right:auto; margin-left:auto; height:300px"}
+![Model Train](/aechsparacosm/assets/model_train.jpg){:style="display:block; margin-right:auto; margin-left:auto; height:300px"}
 
 Bu yaşımı anlamlandıran birçok kitap vardı. Barış Bıçakçı ve Thomas Bernhard gibi heyecan verici yazarları tanıma imkanım oldu. İsmet Özel’in Zor Zamanda Konuşmak kitabı sanki yıllardır elimdeki anahtarları kullanarak açmaya zorladığım kapılara uygun anahtarları bulup onları açmışım gibi hissetmemi sağladı.
 

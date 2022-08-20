@@ -12,7 +12,7 @@ Merhaba tüm organik ve yapay yaşam formları,
 
 Ben katıksız bir cesaretsizim. Cesaretsizliğimi yenmek adına ilk olarak bu problemi ayrıntılarıyla ortaya koymam gerekiyordu. Bu süreçte tüm zayıf noktalarımın ortaya serildiği bir yazı ortaya çıktı. Ben de “Aech daha cesur olacak” eylem planımın ilk adımı olarak zayıf noktalarımı gözler önüne seren bu yazıyı büyük bir cesaret(!) örneği göstererek internet uzayına yüklemeye karar verdim. Bunları yazarken filmlerde geceleyin yüksek bir gökdelen ya da dağın tepesinden gökyüzüne haykıran insanların yaptığı şeyi, sanal alemde binary sayıların akış içinde olduğu veri uzayına yaptığımı hayal ediyorum. Burada olduğunuza göre veri uzayındaki haykırışlarım size ulaşmış olmalı. Hoş geldiniz ve kemerlerinizi bağlayın sarsıntılı bir yolculuk olacak.
 
-![Binary Data](/assets/binary_data.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
+![Binary Data](/aechsparacosm/assets/binary_data.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
 
 Hayatımda çok cesaretli olduğum bir zaman dilimi olmamakla beraber sahip olduğum vasat cesaret düzeyi de yıllar geçtikçe azalmakta. Yakın tarihe kadar bu durum benim için bir problem teşkil etmiyordu. Ancak elimden kaçan fırsatlar, veremediğim kararlar, yüzleşmemek için göz ardı ettiğim problemler çığ gibi büyüyerek beni mental olarak bir enkaz altında bıraktı. Enkazların tek güzel yanı, çürüğün nerede olduğunu size büyük bir netlikle gösteriyor olması. Bu enkaz sonrasında tüm oklar problemimizin cesaretsizliğim olduğunu gösteriyordu. Problem tanımlandığına göre artık onu her yönünden analiz ederek anlamlandırmaya çalışabilirim.
 
@@ -47,7 +47,7 @@ Kılavuzdaki 3. aşama biraz kişisel bir adım olduğu için bu adımı sizlerl
 
 En sevdiğim aşamaya gelmiş bulunuyoruz. Araştırmak, okumak, analiz etmek, başkalarının tecrübeleri ile karşılaştırmalar yapmak, hipotezler oluşturup deneylerle varsayımlarımızı sınamak. Bayılırımm.
 
-![Research meme](/assets/research_meme.jpg){:style="display:block; margin-right:auto; margin-left:auto; height:300px"}
+![Research meme](/aechsparacosm/assets/research_meme.jpg){:style="display:block; margin-right:auto; margin-left:auto; height:300px"}
 
 Şu an bu aşama içerisindeyim, araştırmalarım gittikçe derinlere iniyor ve araştırmaktan kendimi alamıyorum. Hala cesaret problemimi çözebilmiş değilim ancak her gün belli konularda zihnimde paradigma değişmeleri yaşanıyor, yani keyifli bir macera içerisinde olduğumu söyleyebiliriz. Şu ana kadar araştırdığım şeyleri, okuduğum kitaplardan alıntılarımı bu [Notion](https://aechpz.notion.site/korku-ve-cesaret-zerine-5c6bbdd666694300963bf3a8d2300ba8) sayfasından görebilirsiniz.
 

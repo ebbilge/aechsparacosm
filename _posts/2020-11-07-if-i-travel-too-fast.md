@@ -18,7 +18,7 @@ I need to know but these thoughts, feelings and responsibilities so heavy and I 
 
 We are in such a rush. I feel like I’m passing by those meaningful, important and precious moments without even realizing it. This reminds me those incredible words from [Daytripper by Fábio Moon and Gabriel Bá](https://www.goodreads.com/book/show/8477057-daytripper)
 
-![Travel](/assets/travel.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Travel](/aechsparacosm/assets/travel.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 When I started to think about these, my priorities shifts like crazy. I’m in such a paradoxical point. I have to learn and do so many things but I have got limited time. So I have to be fast but If I travel too fast all I gonna see is a blur.
 

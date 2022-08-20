@@ -15,7 +15,7 @@ I have problems with continuity. I couldn’t wrote last week’s adventure log.
 
 * Nature celebrating his 150th anniversary this year. They made data visualization of Nature’s publication record for 150th anniversary. I love data visualization and this one is remarkable and beautiful! [Click here for a good adventure](https://www.nature.com/immersive/d41586-019-03165-4/index.html). I spent about an hour in this data visualization but I couldn’t explored a large part of it. Such a beauty!
 
-![Nature Data](/assets/nature_data.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
+![Nature Data](/aechsparacosm/assets/nature_data.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
 *  You can find a deeper review of this data in [here](https://www.nature.com/articles/d41586-019-03308-7).
 * Another work of Nature for 150th anniversary: [An essay competition](https://www.nature.com/articles/d41586-019-03357-y). I’ve not heard of this competition and I’m so sorry I missed it.
 * I love to read GatesNotes. This week I read [Here’s a way you can help fight Alzheimer’s](https://www.gatesnotes.com/Health/How-you-can-help-fight-Alzheimers?WT.mc_id=20191106015300_AlzheimersTrials_BG-TW&WT.tsrc=BGTW&linkId=76538282) . Bill Gates wrote about why we should be involved in Alzheimer’s disease studies. And he explains this with clearly as always.
@@ -31,4 +31,4 @@ I have problems with continuity. I couldn’t wrote last week’s adventure log.
 
 Live long and prosper.
 
-![Sheldon vulcan](/assets/sheldon_vulcan.gif){:style="display:block; margin-right:auto; margin-left:auto"}
+![Sheldon vulcan](/aechsparacosm/assets/sheldon_vulcan.gif){:style="display:block; margin-right:auto; margin-left:auto"}

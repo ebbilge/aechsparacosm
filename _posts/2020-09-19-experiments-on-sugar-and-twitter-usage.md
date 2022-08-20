@@ -26,7 +26,7 @@ Apart from these, I have really got a lot of time, a lot of. But this data is no
 
 After this successful attempt, I wanted to challenge myself tougher things. I needed to face level end boss: Sugar. If you don’t know me personally, you can’t imagine how much sugar I consume in one day. Some days I was eating only junk foods. More than one chocolate, chocolate cake, some kind fruit flavored milk was my usual meals.
 
-![Sugar](/assets/sugar.gif){:style="display:block; margin-left:auto; margin-rigth:auto"}
+![Sugar](/aechsparacosm/assets/sugar.gif){:style="display:block; margin-left:auto; margin-rigth:auto"}
 
 I was not a person that take care of my health. I lived a turning point when I listen to one of Bilgem Çakır’s interviews (I can’t ignore Covid’s subconscious effect too). In fact every person talk about same issues but [Bilgem Çakır](https://www.youtube.com/channel/UCiziEYDqww4rn3wn7otqHQQ) put it in a way more sensible and more systematic. He talked about that he wants to be physically, mentally and psychologically healthy in his 80s. I want that too, I want to learn and discover amazing things every day. I want to be mentally healthy to keep my learning adventure alive even when I came to my 80s.
 

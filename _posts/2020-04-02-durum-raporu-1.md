@@ -33,7 +33,7 @@ Kendi düşüncelerimizle baş başa kalmaktan ürküyoruz, Hermann Hesse’nin 
 
 Tüm bunlar ışığında daha bilinçli bir şekilde düşünmek için çabalıyorum ve yöntemler arıyorum.
 
-![Star Trek Attention](/assets/startrek_attention.gif){:style="display:block; margin-right:auto; margin-left:auto"}
+![Star Trek Attention](/aechsparacosm/assets/startrek_attention.gif){:style="display:block; margin-right:auto; margin-left:auto"}
 Dikkat! Yukarıda belirtilen fikirler hala gelişim aşamasında ve desteklerinizi bekliyor.
 
 COVID-19’un yayılımı sonucu tüm dünya online eğitime geçiş yaptı ve birçok kurum, üniversite bilgi kaynaklarını ücretsiz erişime açtı. Tüm bu olanlar bana [Aaron Swartz](https://tr.wikipedia.org/wiki/Aaron_Swartz)‘ı hatırlattı ve [bloguna](http://www.aaronsw.com/weblog/) yeniden göz atmaya karar verdim. Eğer Aaron’u tanımıyorsanız [The Internet’s Own Boy: The Story of Aaron Swartz](https://www.imdb.com/title/tt3268458/) belgeselini kesinlikle izlemenizi öneririm.
@@ -52,7 +52,7 @@ Yazısının sonunda Aaron gelişen zihin yapısına sahip olmak için uyguladı
 
 Maalesef ben de birçok konuda sabit zihin yapısına sahibim ve bunu değiştirmek istiyorum. Bu nedenle ablam ile bu yöntemi uygulamaya başladık.
 
-![Aaron Swartz](/assets/aaron_swartz.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
+![Aaron Swartz](/aechsparacosm/assets/aaron_swartz.jpg){:style="display:block; margin-right:auto; margin-left:auto"}
 
 -----
 Serdar Kuzuloğlu’nun önerisi ile İhsan Oktay Anar’ın kitaplarını okumaya başladım. Elimden düşürmeden sırasıyla Suskunlar, Puslu Kıtalar Atlası ve Amat’ı okudum. Benim için ön yargılarımın yıkıldığı, macera dolu, enfes bir süreçti. Belki ilerleyen süreçte kitaplar hakkında daha detaylı yazılar yazabilirim.
@@ -67,4 +67,4 @@ Bu konuda ilgili ve bilgili iseniz fikirlerinizi duymaktan çok memnun olurum.
 
 Bu iki ayda bahsedecek çok şey biriktirmişim. Yazının uzamaması için geri kalanları ilerleyen süreçte paylaşacağım. Katkılarından dolayı Akina Arial’a teşekkürü borç bilirim. Okuduğunuz için teşekkürler 🖖
 
-![Vulcan Salute](/assets/vulcan_salute2.gif){:style="display:block; margin-right:auto; margin-left:auto"}
+![Vulcan Salute](/aechsparacosm/assets/vulcan_salute2.gif){:style="display:block; margin-right:auto; margin-left:auto"}
