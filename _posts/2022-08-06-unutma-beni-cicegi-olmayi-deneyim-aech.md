@@ -21,14 +21,12 @@ Derin öğrenmenin temelleri konusunda eksiklerim olduğunu hissediyorum. O nede
 Derin öğrenme demişken aylardır beklediğim DALL-E davet maili geldi. 50 kredimin hepsini neredeyse tek gecede harcadım. Harika sonuçlar ortaya çıktı, twitter hesabım üzerinden birkaç tanesini paylaştım. Orada paylaşmadığım birkaç tanesini de burada paylaşmak istiyorum.
 
 "*hayao miyazaki and van gogh drinking tea while watching starry night*"
-
  
 {% include image-gallery.html folder="/aechsparacosm/assets/miyazaki1" %}
 
 "*hayao miyazaki drinking tea at howl's moving castle when they are watching the night sky*"
 
 {% include image-gallery.html folder="/aechsparacosm/assets/miyazaki2" %}
-
 
 Bu resimlerden Miyazaki ve Studio Ghibli hayranlığımı fark etmişsinizdir. Bana ilham veren her sanatçı ruhumda bir yer kaplamaya ve orayı çiçeklendirmeye başlıyor. Miyazaki de bunlardan birisi. Ruhumun daha da çiçeklenmesi için böyle sanatçıları keşfetme arayışına giriyorum. Keşiflerim için ana kaynağım sanata dair programlar izlemek. Şu sıralar, TRT2’nin yaptığı çoğu iş gibi enfes olan “[Bir Resim Bir Hikaye](https://www.trtizle.com/programlar/bir-resim-bir-hikaye)” ve “[Bir Kare Bir Anlam](https://www.trtizle.com/programlar/bir-kare-bir-anlam)” programlarını takip ediyorum. Bunun dışında yıllardır favorim olan Sky Arts’ın harika programı “Portrait Artist of the Year” ile yeni sanatçıların keşfine çıkıyorum.
 
